@@ -1,0 +1,16 @@
+G:\2020\Upc2020\Microservices\Worker\bin\Debug\netcoreapp3.1\Worker.exe
+G:\2020\Upc2020\Microservices\Worker\bin\Debug\netcoreapp3.1\Worker.deps.json
+G:\2020\Upc2020\Microservices\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.json
+G:\2020\Upc2020\Microservices\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.dev.json
+G:\2020\Upc2020\Microservices\Worker\bin\Debug\netcoreapp3.1\Worker.dll
+G:\2020\Upc2020\Microservices\Worker\bin\Debug\netcoreapp3.1\Worker.pdb
+G:\2020\Upc2020\Microservices\Worker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+G:\2020\Upc2020\Microservices\Worker\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+G:\2020\Upc2020\Microservices\Worker\obj\Debug\netcoreapp3.1\Worker.csprojAssemblyReference.cache
+G:\2020\Upc2020\Microservices\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfoInputs.cache
+G:\2020\Upc2020\Microservices\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfo.cs
+G:\2020\Upc2020\Microservices\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CoreCompileInputs.cache
+G:\2020\Upc2020\Microservices\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CopyComplete
+G:\2020\Upc2020\Microservices\Worker\obj\Debug\netcoreapp3.1\Worker.dll
+G:\2020\Upc2020\Microservices\Worker\obj\Debug\netcoreapp3.1\Worker.pdb
+G:\2020\Upc2020\Microservices\Worker\obj\Debug\netcoreapp3.1\Worker.genruntimeconfig.cache

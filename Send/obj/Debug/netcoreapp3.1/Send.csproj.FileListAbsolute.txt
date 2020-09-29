@@ -1,0 +1,16 @@
+G:\2020\Upc2020\Microservices\send\bin\Debug\netcoreapp3.1\Send.exe
+G:\2020\Upc2020\Microservices\send\bin\Debug\netcoreapp3.1\Send.deps.json
+G:\2020\Upc2020\Microservices\send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+G:\2020\Upc2020\Microservices\send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+G:\2020\Upc2020\Microservices\send\bin\Debug\netcoreapp3.1\Send.dll
+G:\2020\Upc2020\Microservices\send\bin\Debug\netcoreapp3.1\Send.pdb
+G:\2020\Upc2020\Microservices\send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+G:\2020\Upc2020\Microservices\send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+G:\2020\Upc2020\Microservices\send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+G:\2020\Upc2020\Microservices\send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+G:\2020\Upc2020\Microservices\send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+G:\2020\Upc2020\Microservices\send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+G:\2020\Upc2020\Microservices\send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+G:\2020\Upc2020\Microservices\send\obj\Debug\netcoreapp3.1\Send.dll
+G:\2020\Upc2020\Microservices\send\obj\Debug\netcoreapp3.1\Send.pdb
+G:\2020\Upc2020\Microservices\send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache

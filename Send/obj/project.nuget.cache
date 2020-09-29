@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wd7tWTY2P8znCrWNJRkmZPUh5LMdlSOToFp0+XOGnYG/ypzmpnK29icKrJp02wVrrYa16eDzVU9AHBUxmBIJrQ==",
+  "success": true,
+  "projectFilePath": "G:\\2020\\Upc2020\\Microservices\\send\\Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

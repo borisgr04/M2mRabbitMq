@@ -1,0 +1,16 @@
+G:\2020\Upc2020\Microservices\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+G:\2020\Upc2020\Microservices\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+G:\2020\Upc2020\Microservices\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+G:\2020\Upc2020\Microservices\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+G:\2020\Upc2020\Microservices\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+G:\2020\Upc2020\Microservices\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+G:\2020\Upc2020\Microservices\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+G:\2020\Upc2020\Microservices\Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+G:\2020\Upc2020\Microservices\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+G:\2020\Upc2020\Microservices\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+G:\2020\Upc2020\Microservices\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+G:\2020\Upc2020\Microservices\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CoreCompileInputs.cache
+G:\2020\Upc2020\Microservices\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+G:\2020\Upc2020\Microservices\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+G:\2020\Upc2020\Microservices\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
+G:\2020\Upc2020\Microservices\Receive\obj\Debug\netcoreapp3.1\Receive.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\2020\Upc2020\Microservices\NewTask\bin\Debug\netcoreapp3.1\NewTask.exe
+G:\2020\Upc2020\Microservices\NewTask\bin\Debug\netcoreapp3.1\NewTask.deps.json
+G:\2020\Upc2020\Microservices\NewTask\bin\Debug\netcoreapp3.1\NewTask.runtimeconfig.json
+G:\2020\Upc2020\Microservices\NewTask\bin\Debug\netcoreapp3.1\NewTask.runtimeconfig.dev.json
+G:\2020\Upc2020\Microservices\NewTask\bin\Debug\netcoreapp3.1\NewTask.dll
+G:\2020\Upc2020\Microservices\NewTask\bin\Debug\netcoreapp3.1\NewTask.pdb
+G:\2020\Upc2020\Microservices\NewTask\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+G:\2020\Upc2020\Microservices\NewTask\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+G:\2020\Upc2020\Microservices\NewTask\obj\Debug\netcoreapp3.1\NewTask.csprojAssemblyReference.cache
+G:\2020\Upc2020\Microservices\NewTask\obj\Debug\netcoreapp3.1\NewTask.AssemblyInfoInputs.cache
+G:\2020\Upc2020\Microservices\NewTask\obj\Debug\netcoreapp3.1\NewTask.AssemblyInfo.cs
+G:\2020\Upc2020\Microservices\NewTask\obj\Debug\netcoreapp3.1\NewTask.csproj.CoreCompileInputs.cache
+G:\2020\Upc2020\Microservices\NewTask\obj\Debug\netcoreapp3.1\NewTask.csproj.CopyComplete
+G:\2020\Upc2020\Microservices\NewTask\obj\Debug\netcoreapp3.1\NewTask.dll
+G:\2020\Upc2020\Microservices\NewTask\obj\Debug\netcoreapp3.1\NewTask.pdb
+G:\2020\Upc2020\Microservices\NewTask\obj\Debug\netcoreapp3.1\NewTask.genruntimeconfig.cache
