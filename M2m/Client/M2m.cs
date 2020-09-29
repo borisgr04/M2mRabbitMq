@@ -45,8 +45,8 @@ namespace Client
             var apiClient = new HttpClient();
             Console.WriteLine(tokenResponse.AccessToken);
             apiClient.SetBearerToken(tokenResponse.AccessToken);
-
-                                                   //"llamar api para que consulte"     
+            apiClient.DefaultRequestHeaders.Add("ByAUserName", "deisy");//?
+                                                   //"llamar api para que consulte sircc"     
             var response = await apiClient.GetAsync("https://demo.identityserver.io/api/test");
             
             //encabezado user  //sistema
