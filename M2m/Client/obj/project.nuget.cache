@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6T9zQCymzSWi07jfPPJoioXZLCMABczr1ZCoPm7Wt6wLBOXDy9IbMOSELW6kntP7PCuYuYXRkF/k1MJ0M8ASEg==",
+  "dgSpecHash": "DWIgThSn4j0Ioad35AmlKUvUtzni1MjptfrZTHU1mZ8IrmbtN/SGSZVU5m64k5dL25r99ocBsdiw20jb4B8pEA==",
   "success": true,
-  "projectFilePath": "G:\\2020\\Upc2020\\Microservices\\M2m\\Client\\Client.csproj",
+  "projectFilePath": "D:\\Dev\\M2mRabbitMq\\M2m\\Client\\Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+    "C:\\Users\\LENOVO\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

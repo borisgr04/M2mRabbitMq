@@ -1,30 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "G:\\2020\\Upc2020\\Microservices\\send\\Send.csproj": {}
+    "D:\\Dev\\M2mRabbitMq\\Send\\Send.csproj": {}
   },
   "projects": {
-    "G:\\2020\\Upc2020\\Microservices\\send\\Send.csproj": {
+    "D:\\Dev\\M2mRabbitMq\\Send\\Send.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\2020\\Upc2020\\Microservices\\send\\Send.csproj",
+        "projectUniqueName": "D:\\Dev\\M2mRabbitMq\\Send\\Send.csproj",
         "projectName": "Send",
-        "projectPath": "G:\\2020\\Upc2020\\Microservices\\send\\Send.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "G:\\2020\\Upc2020\\Microservices\\send\\obj\\",
+        "projectPath": "D:\\Dev\\M2mRabbitMq\\Send\\Send.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\M2mRabbitMq\\Send\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "http://byanugetserver.azurewebsites.net/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -62,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
