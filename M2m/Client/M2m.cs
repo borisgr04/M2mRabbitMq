@@ -68,80 +68,80 @@ namespace Client
             }
         }
 
-    //     public class FactoryHttp : IFactoryHttp
-    //     {
-    //         public HttpClient Crear(string username)
-    //         {
-    //             //obnet la direccion de identitu
-    //             //y configurr ç
+    //    public class FactoryHttp : IFactoryHttp
+    //    {
+    //        public HttpClient Crear(string username)
+    //        {
+    //            //obnet la direccion de identitu
+    //            //y configurr ç
 
-    //             // discover endpoints from metadata
-    //             var client = new HttpClient();
+    //            // discover endpoints from metadata
+    //            var client = new HttpClient();
 
-    //             var disco = await client.GetDiscoveryDocumentAsync("https://localhost:44343");
-    //             if (disco.IsError)
-    //             {
-    //                 Console.WriteLine(disco.Error);
-    //                 return;
-    //             }
+    //            var disco = await client.GetDiscoveryDocumentAsync("https://localhost:44343");
+    //            if (disco.IsError)
+    //            {
+    //                Console.WriteLine(disco.Error);
+    //                return;
+    //            }
 
-    //             // request token
-    //             var tokenResponse = await client.RequestClientCredentialsTokenAsync(new ClientCredentialsTokenRequest
-    //             {
-    //                 Address = disco.TokenEndpoint,
-    //                 ClientId = "Sigelc",
-    //                 ClientSecret = "SigelcSecret",
-    //                 Scope = "UnidadContratacion"
-    //             });
+    //            // request token
+    //            var tokenResponse = await client.RequestClientCredentialsTokenAsync(new ClientCredentialsTokenRequest
+    //            {
+    //                Address = disco.TokenEndpoint,
+    //                ClientId = "Sigelc",
+    //                ClientSecret = "SigelcSecret",
+    //                Scope = "UnidadContratacion"
+    //            });
 
-    //             if (tokenResponse.IsError)
-    //             {
-    //                 Console.WriteLine(tokenResponse.Error);
-    //                 return;
-    //             }
+    //            if (tokenResponse.IsError)
+    //            {
+    //                Console.WriteLine(tokenResponse.Error);
+    //                return;
+    //            }
 
-    //             Console.WriteLine(tokenResponse.Json);
-    //             Console.WriteLine("\n\n");
+    //            Console.WriteLine(tokenResponse.Json);
+    //            Console.WriteLine("\n\n");
 
-    //             // call api
-    //             var apiClient = new HttpClient();
-    //             Console.WriteLine(tokenResponse.AccessToken);
-    //             apiClient.SetBearerToken(tokenResponse.AccessToken);
-    //             apiClient.DefaultRequestHeaders.Add("ByAUserName", "deisy");//?
+    //            // call api
+    //            var apiClient = new HttpClient();
+    //            Console.WriteLine(tokenResponse.AccessToken);
+    //            apiClient.SetBearerToken(tokenResponse.AccessToken);
+    //            apiClient.DefaultRequestHeaders.Add("ByAUserName", "deisy");//?
 
 
-    //         }
-    //     }
-    //     public class AgentService
-    //     {
-    //         private IFactoryHttp _factoryHttp;
-    //         public AgentService(IFactoryHttp factoryHttp)
-    //         {
-    //             _factoryHttp = factoryHttp;
-    //         }
-    //         public void AgenteServicio()
-    //         {
-    //             HttpClient apiClient = _factoryHttp.Crear("user");
+    //        }
+    //    }
+    //    public class AgentService
+    //    {
+    //        private IFactoryHttp _factoryHttp;
+    //        public AgentService(IFactoryHttp factoryHttp)
+    //        {
+    //            _factoryHttp = factoryHttp;
+    //        }
+    //        public void AgenteServicio()
+    //        {
+    //            HttpClient apiClient = _factoryHttp.Crear("user");
 
-    //             var response = await apiClient.GetAsync("https://localhost:44340/api/Prueba/Cadena");
-    //             //var response = await apiClient.GetAsync("https://localhost:44340/api/ApisExternas/ConsultarContratosConRps/Contratista/50950218");
+    //            var response = await apiClient.GetAsync("https://localhost:44340/api/Prueba/Cadena");
+    //            //var response = await apiClient.GetAsync("https://localhost:44340/api/ApisExternas/ConsultarContratosConRps/Contratista/50950218");
 
-    //             //encabezado user  //sistema
-    //             //request          //
+    //            //encabezado user  //sistema
+    //            //request          //
 
-    //             if (!response.IsSuccessStatusCode)
-    //             {
-    //                 Console.WriteLine(response.StatusCode);
-    //             }
-    //             else
-    //             {
-    //                 var content = await response.Content.ReadAsStringAsync();
-    //                 Console.WriteLine(content);
-    //             }
-    // ;
-    //         }
+    //            if (!response.IsSuccessStatusCode)
+    //            {
+    //                Console.WriteLine(response.StatusCode);
+    //            }
+    //            else
+    //            {
+    //                var content = await response.Content.ReadAsStringAsync();
+    //                Console.WriteLine(content);
+    //            }
+    //;
+    //        }
 
-    //     }
+    //    }
 
     }
 }
