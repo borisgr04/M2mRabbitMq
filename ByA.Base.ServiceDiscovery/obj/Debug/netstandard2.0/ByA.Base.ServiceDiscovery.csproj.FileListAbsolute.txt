@@ -1,0 +1,9 @@
+G:\2020\Upc2020\Microservices\ByA.Base.ServiceDiscovery\bin\Debug\netstandard2.0\ByA.Base.ServiceDiscovery.deps.json
+G:\2020\Upc2020\Microservices\ByA.Base.ServiceDiscovery\bin\Debug\netstandard2.0\ByA.Base.ServiceDiscovery.dll
+G:\2020\Upc2020\Microservices\ByA.Base.ServiceDiscovery\bin\Debug\netstandard2.0\ByA.Base.ServiceDiscovery.pdb
+G:\2020\Upc2020\Microservices\ByA.Base.ServiceDiscovery\obj\Debug\netstandard2.0\ByA.Base.ServiceDiscovery.csprojAssemblyReference.cache
+G:\2020\Upc2020\Microservices\ByA.Base.ServiceDiscovery\obj\Debug\netstandard2.0\ByA.Base.ServiceDiscovery.AssemblyInfoInputs.cache
+G:\2020\Upc2020\Microservices\ByA.Base.ServiceDiscovery\obj\Debug\netstandard2.0\ByA.Base.ServiceDiscovery.AssemblyInfo.cs
+G:\2020\Upc2020\Microservices\ByA.Base.ServiceDiscovery\obj\Debug\netstandard2.0\ByA.Base.ServiceDiscovery.csproj.CoreCompileInputs.cache
+G:\2020\Upc2020\Microservices\ByA.Base.ServiceDiscovery\obj\Debug\netstandard2.0\ByA.Base.ServiceDiscovery.dll
+G:\2020\Upc2020\Microservices\ByA.Base.ServiceDiscovery\obj\Debug\netstandard2.0\ByA.Base.ServiceDiscovery.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6T9zQCymzSWi07jfPPJoioXZLCMABczr1ZCoPm7Wt6wLBOXDy9IbMOSELW6kntP7PCuYuYXRkF/k1MJ0M8ASEg==",
+  "dgSpecHash": "Qrcg2/v0OSMRFV1QWy4idvAOhQjwqNupkFs1ky2h22VZCiuwb8jQzXin1qN1ForKIcCwTsbpApRsxyuTN/bueQ==",
   "success": true,
-  "projectFilePath": "G:\\2020\\Upc2020\\Microservices\\M2m\\Client\\Client.csproj",
+  "projectFilePath": "G:\\2020\\Upc2020\\Microservices\\m2m\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",

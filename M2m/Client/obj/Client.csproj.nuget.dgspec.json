@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\2020\\Upc2020\\Microservices\\M2m\\Client\\Client.csproj": {}
+    "G:\\2020\\Upc2020\\Microservices\\m2m\\Client\\Client.csproj": {}
   },
   "projects": {
-    "G:\\2020\\Upc2020\\Microservices\\M2m\\Client\\Client.csproj": {
+    "G:\\2020\\Upc2020\\Microservices\\m2m\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\2020\\Upc2020\\Microservices\\M2m\\Client\\Client.csproj",
+        "projectUniqueName": "G:\\2020\\Upc2020\\Microservices\\m2m\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "G:\\2020\\Upc2020\\Microservices\\M2m\\Client\\Client.csproj",
+        "projectPath": "G:\\2020\\Upc2020\\Microservices\\m2m\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "G:\\2020\\Upc2020\\Microservices\\M2m\\Client\\obj\\",
+        "outputPath": "G:\\2020\\Upc2020\\Microservices\\m2m\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

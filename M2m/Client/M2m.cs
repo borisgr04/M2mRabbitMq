@@ -16,7 +16,13 @@ namespace Client
             // discover endpoints from metadata
             var client = new HttpClient();
                                                                 //https://localhost:44343/
-            var disco = await client.GetDiscoveryDocumentAsync("https://demo.identityserver.io");
+            var disco = await client.GetDiscoveryDocumentAsync(new DiscoveryDocumentRequest {
+                Address = "http://45.40.133.92:8027/identity/",
+                Policy =
+                {
+                    RequireHttps = false
+                }
+            });
             if (disco.IsError)
             {
                 Console.WriteLine(disco.Error);
@@ -27,9 +33,9 @@ namespace Client
             var tokenResponse = await client.RequestClientCredentialsTokenAsync(new ClientCredentialsTokenRequest
             {
                 Address = disco.TokenEndpoint,
-                ClientId = "m2m",
-                ClientSecret = "secret",
-                Scope = "api"
+                ClientId = "archivoInventarioOpenApiDev",
+                ClientSecret = "archivoInventarioOpenApiSecret",
+                Scope = "ArchivoInventario"
             });
             
             if (tokenResponse.IsError)
@@ -47,7 +53,7 @@ namespace Client
             apiClient.SetBearerToken(tokenResponse.AccessToken);
             apiClient.DefaultRequestHeaders.Add("ByAUserName", "deisy");//?
                                                    //"llamar api para que consulte sircc"     
-            var response = await apiClient.GetAsync("https://demo.identityserver.io/api/test");
+            var response = await apiClient.GetAsync("https://localhost:5001/WeatherForecast");
             
             //encabezado user  //sistema
             //request          //
