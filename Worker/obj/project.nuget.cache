@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5hmSlSPcTrDjx0KYtHyj6TVvvOLWRB6AwuyHe8W+FbDbL0gcu6BE8pUqek6FvHSMk4/7ql1ZIHbfj80sGaBWjQ==",
+  "dgSpecHash": "VI1paSkArO5mTCNM4YodnP/fw0cGwM72OGA4PaLDgm/upeG76UDcVk4BdjQE9wBJVR4saYAnZrA/0EotCtMpPw==",
   "success": true,
-  "projectFilePath": "G:\\2020\\Upc2020\\Microservices\\Worker\\Worker.csproj",
+  "projectFilePath": "D:\\Dev\\M2mRabbitMq\\Worker\\Worker.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "C:\\Users\\LENOVO\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
